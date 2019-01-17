@@ -1,0 +1,189 @@
+body {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.14;
+    margin: 0;
+    overflow: hidden;
+    background-color: #e7e7e7f3;
+    color: black;
+}
+
+h4 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #d4ccdb;
+}
+
+#about {
+    left: 50vw;
+    top: 50vh;
+    -webkit-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        -moz-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+}
+
+#background {
+    height:100vh;
+    width:100vw;
+    max-height:100vh;
+    max-width:100vw;
+}
+
+#card {
+    position: fixed;
+    height: 75vh;
+    width: 85vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    padding: 35px;
+    background-image: url("../img/wine-corks-medium.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#67418b;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        -moz-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+    /* animation: pulse 5s infinite;
+    animation-direction: alternate; */
+}
+
+#card p {
+    color: #d4ccdb;
+    font-weight: 500;
+
+}
+
+#contact {
+    text-align: center;
+    right: 10vw;
+    top: 35vh;
+    -webkit-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        -moz-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+}
+
+#logo {
+    position: relative;
+     top: 50%;
+     transform: perspective(1px) translateY(-50%);
+    /* margin-top: 20%; */
+    color:#d4ccdb;
+    border-radius: 30px;
+    width: 740px;
+    background-color: rgba(90, 37, 97, 0.75);
+    padding: 30px;
+    min-width: 440px;
+    z-index: 999;
+}
+
+#logo h1 {
+    font: 70 130px/0.8 'Sacramento', Helvetica, sans-serif;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#logo h4 {
+    font: 400 40px/0.8 'Sacramento', Helvetica, sans-serif;
+    text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+    margin: 5px 5px 5px 300px;
+}
+#logo p {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#logo .break {
+    display: none;
+}
+
+.section {
+    position: fixed;
+    width: 300px;
+    padding: 10px;
+    border: 5px solid;
+    border-color:#6ed3cf;
+    background-color: #e1e8f0;
+    overflow: hidden;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+    .slide > .text {
+        height: 100vh;
+        margin-top: 70px;
+    }
+    .slide.logo > .text {
+        height: auto;
+    }
+}
+
+  
+  @keyframes pulse {
+    0% {
+        -webkit-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        -moz-box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+        box-shadow: 0px 6px 18px 2px rgba(0,0,0,0.52);
+    }
+    100% {
+        webkit-box-shadow: 0px 6px 18px 2px #6ed3cf;
+        -moz-box-shadow: 0px 6px 18px 2px #6ed3cf;
+        box-shadow: 0px 6px 18px 2px #6ed3cf;
+    }
+  }
+
+  @keyframes text-pulse {
+      0% {
+        text-shadow: #FFF, rgba(0,0,0,0.15);
+      }
+      100% {
+        text-shadow: #6ed3cf, rgba(0,0,0,0.15);
+      }
+  }
+
+@media (max-width: 920px) { 
+    #logo {
+        min-width: 100px;
+        padding: 4%;
+        width: 90%;
+        margin: auto;
+    }
+    #logo h1 {
+        font-size: 20.5vw;
+    }
+
+    #logo h4 {
+        margin-left: 0;
+        font-size: 7.5vw;
+        text-align: center;
+    }
+
+    #logo p {
+        font-size: 4.5vw;
+    }
+
+    #logo .break {
+        display: block;
+    }
+
+}
+
+
+  
+  
