@@ -68,7 +68,7 @@
     {
         "firstName": "Michelle",
         "lastName": "Koeppe",
-        "bio": ["Michelle Koeppe resides in the heart of the Dundee Hills with a professional, local winemaker, a plethora of poultry, & a pair of Shar peis.  She is avid about promoting conviviality & the modalities that support it-- great food, wine, nature, & the arts.  Michelle loves sharing great vintages, good reads, & fun/wacky/interesting things to do in the Willamette Valley. Her past job titles include professional dancer, zookeeper, park ranger, & sea kayak guide/instructor."]
+        "bio": ["Michelle Koeppe resides in the heart of the Dundee Hills with a professional, local winemaker, a plethora of poultry, & a pair of Shar peis.  She is avid about promoting conviviality & the modalities that support it-- great food, wine, nature, & the arts.  Michelle loves sharing great vintages, good reads, & fun/wacky/interesting things to do in the Willamette Valley. Her past job titles include professional dancer, zookeeper, park ranger, & sea kayak guide/instructor.fd"]
     },
     {
         "firstName": "Chase",
@@ -94,5 +94,13 @@
         "firstName": "Kate",
         "lastName": "Anderegg",
         "bio": ["Hi! I’m Kate, and I love wine. My love affair began with my college job, waiting tables at a small, mom-and-pop Italian restaurant run with love by an old curmudgeon. It was the first time I thought about wine as more than just a beverage, something to enhance a meal, to enjoy slowly and thoughtfully with friends. My restaurant career continued after graduation, and brought me to San Francisco, then to Portland. Throughout my decade in restaurants, wine became a central focus, and I began writing wine lists and educating staff in addition to my serving shifts. About 2 years ago, I made the next logical step, to selling wine for an importer, which has given me a more in-depth understanding of grape farming and wine production. My broad professional experience involving wine- pouring, discussing, recommending, buying, selling- have granted me the ability to speak comfortably and confidently to all types of wine drinkers, from novices to experts, and get them excited about the wine they’re buying. I am thrilled with the opportunity to share my personal passion for wine with new people, and always seeking to learn more about Oregon wine."]
+    },
+    {   
+        "firstName": "Tim",
+        "lastName": "Reifsteck"
+    },
+    {   
+        "firstName": "Amy",
+        "lastName": "Rehagan"
     }
 ]
