@@ -15,56 +15,60 @@
         "firstName": "Maxine",
         "lastName": "Borcherding",
         "bio": ["Maxine Borcherding , Chef, Sommelier, lover of wine, fine food, and good whiskey; travel enthusiast, writer and passionate educator, is the  founder of the Taste and Compare Academy of Wine, Spirits and Food. Recently retired from 16 years as Lead Chef Instructor at the Oregon Culinary Institute, she is happily spending her “retirement” teaching consumer and professional level classes in wine and food, promoting the wines of France, Spain, and the Pacific Northwest,  and leading tours to the great wine and culinary regions of France and Spain.",
-            "Maxine’s professional certifications include Sommelier (International Sommelier Guild), French Wine Scholar (French Wine Academy), Spanish Wine Educator (Wine Academy of Spain), and Wine Location Specialist (Center for Wine.Origins).",
-            "Maxine is first and foremost a writer and educator who excels at making wine accessible and approachable to both consumers and hospitality staff without jargon  pretension. She is also available to present hospitality staff training, wine classes, workshops, and guided tastings for special events such as corporate team building, parties and groups"
+                "Maxine’s professional certifications include Sommelier (International Sommelier Guild), French Wine Scholar (French Wine Academy), Spanish Wine Educator (Wine Academy of Spain), and Wine Location Specialist (Center for Wine.Origins).",
+                "Maxine is first and foremost a writer and educator who excels at making wine accessible and approachable to both consumers and hospitality staff without jargon  pretension. She is also available to present hospitality staff training, wine classes, workshops, and guided tastings for special events such as corporate team building, parties and groups"
         ]
     },
     {
         "firstName": "Tarrah",
-        "lastName": "Meyers",
+        "lastName": "Meyer",
         "bio": ["I have always had a fascination of wine and food pairing. More than six years ago I set out on a great wine adventure and the fun hasn’t stopped. I graduated Chemeketa’s wine marketing program while working as a Roth’s wine steward. Managing my own wine department offered me the opportunity to learn about and taste a wide variety of wines from around the world. It was the perfect spot for me to grow my passion. Last year, I decided to step back from the industry a little and instead care for my son full time. I have a great love of wine and a thirst for knowledge and have found a good working balance as a wine pourer."]
     },
     {
         "firstName": "Kristin A",
-        "lastName": "Spear"
+        "lastName": "Spear",
+        "bio": ["Kristin's extensive background in the food and beverage industry started in Portland with the Chart House restaurant group and took her to Boston and then New York City. In New York, she worked for some of the top restauranteurs such as the famed Arcadia with Ann Rosenzweig, the Scotto family, and The Four Seasons Hotel on 57th St. Back in Oregon, she has spent time in sales with Young's Market and in the tasting room of the acclaimed Fullerton Winery. Kristin is a results-driven professional and is in her element when sharing your labors of love and your passion with the public."]
     },
     {
         "firstName": "Lucia",
-        "lastName": "Walker"
+        "lastName": "Walker",
+        "bio": ["Wine and culture has always been a part of me, my life and my family. Growing up among my family's wine distribution company gave me the opportunity meeting and visiting incredible sommeliers and winemakers from different parts of the world with Oregon as my homebase. I've always had a passion for culture, a genuine interest in wine and the origin of indigenous grapes. I've traveled to 5 countries exploring new appellations, and about to depart on a new adventure in the Southern Hemisphere. My journey as a professional in the wine industry began over 10 years ago, as the purchasing agent, office manager and right hand to my father and mentor at Lemma Wine Company. I have direct experience in brand management, product launch and analysis, logistics and negotiations.  I thrive in a busy atmosphere and short deadlines with exceeding expectations. Lemma Wine was not only a company distributing fine wines to the state of Oregon, it was an establishment of education in fine wine. I am honored to continue my knowledge and expertise as a professional pourer.",
+                "On my free time I am a baker and pickling enthusiast... always ready to share a charcuterie board or meal paired with wine!"]
     },
     {
         "firstName": "Margot",
-        "lastName": "Delaittre"
+        "lastName": "Delaittre",
+        "bio": ["Hello! My name is Margot DeLaittre, and I have been working in the service industry for over a decade. I've done pretty much every front of the house position possible, and through these experiences I have found a passion for wine. I love the stories behind the bottles, pairing the wine with food, and generally just learning as much as I can about the wine world. I love to educate people as well, whether that be through a tasting, or pointing out a bottle on the list I think is interesting. I look forward to raising a glass with you!"]
     },
     {
         "firstName": "Elaise",
-        "lastName": "Piper"
+        "lastName": "Piper",
+        "bio": ["Elaise is the Wine Steward for the Grant Park New Seasons. After pouring for years as a bartender in Los Angeles, she brought her California palate to Oregon and promptly did an about face as she fell in love with Pinot Noir. She jumped at the chance to help open the Woodstock New Seasons Market and uses her Steward position to taste as much as possible and expand her knowledge. She loves to turn people on to great wine and couldn’t be more excited to work with Margaux to promote her exceptional clientele."]
     },
     {
         "firstName": "Dana",
-        "lastName": "Robinson"
+        "lastName": "Robinson",
+        "bio": ["20 years professional experience in wine  hospitality and service industry. Harvest and sales in New Zealand. Winery tasting rooms and bottling Napa. Tasting room management Veneta Or. Sales and wine demo experience Portland. F.O H. and wine buyer for french restaurant Portland. Extensive training and tasting both in classes and on my own wine tasting, sensory evaluation. I would like to express how important I feel it is to have a customer feel at ease , interested and engage with me regarding the products I am promoting/ selling.   I make eye contact, smile and invite the customer to taste, learn and purchase.    I strive to be a knowledgeable and courteous person and represent the product as  best possible."]
     },
     {
         "firstName": "Sasha",
-        "lastName": "Schwenk"
+        "lastName": "Schwenk",
+        "bio": ["Sasha's background as a cheese monger laid the groundwork for her appreciation of wine.  She's always asking why and how geology, climate, culture, and production techniques influence the outcome of a wine or cheese.  She's a champion of the local food economy, celebrating the hard work, care, and attention the producers devote to their wares--edible expressions of place."]
     },
     {
         "firstName": "Colleen",
-        "lastName": "Kenny"
+        "lastName": "Kenny",
+        "bio": ["Colleen fell in love with wine while working as a Beverage Manager in downtown Chicago at Bar Toma, one of Tony Mantuano’s restaurants.  She left that job to allow the time to study for the Certified Sommelier Exam. While studying, she applied for internships to work harvest.  Which lead her to packing her life up with one week’s notice to move to Portland. She landed at Pamplin Family Winery, in 2015, and worked harvest as a vineyard intern and in 2017 she was a cellar intern. Previously, Colleen managed bars and restaurants in Chicago, including a venue in Wrigley Field.  In the Portland metro area, she has managed beverage programs for multiple restaurants.  Currently, she is part of the wine team and oversees bar operations as the Assistant General Manager at Nostrana & Enoteca Nostrana.  Colleen is a Certified Sommelier pursuing the Advanced Sommelier Certification with the Court of Master Sommeliers."]
     },
     {
         "firstName": "Emily",
-        "lastName": "Warden"
+        "lastName": "Warden",
+        "bio": ["Emily's love for food, wine, and hospitality started early while she was growing up in her family's restaurant in northern Vermont. With a chef for a mother, she developed a keen sense and fascination for the interplay between different flavors and elements in cooking, and subsequently, finding the perfect wines to accompany them. In Portland, she has spent over seven years working at some of the city's most popular restaurant. She has worked as a server at Andina, focusing largely on South American and Spanish wines, and was part of the opening crew at James Beard-nominated Coquine, where she learned a great deal about pairing and talking about wine from owner and sommelier Ksandek Podbielski. Emily aims to communicate in a fun, approachable way that is individually tailored and informed by years of experience and love. In addition to her work in the hospitality industry, she can often be found performing and teaching saxophone around town, or enjoying a home-cooked meal and a glass of wine with her partner and their little dog, Finn."]
     },
     {
         "firstName": "Michelle",
-        "lastName": "Koeppe"
-    },
-    {
-        "firstName": "Brianne",
-        "lastName": "Bova",
-        "bio": ["My name is Brianne Bova and I currently manage a mid-size wine distribution company in Portland, Oregon. I have resided in the beautiful Northwest since 2012. My calling to the wine industry sparked before I was of legal drinking age. It started with my international travels and deepened with my understanding of terroir and designated growing regions from around the world. With the presence of Midwest hospitality engraved on my soul, I have translated these abilities into my love for serving, educating, and sharing the process of wine for all patrons and connoisseurs I assist. By allowing strangers to feel comfortable, and nurtured for the duration of their experiences. My bachelor’s degree in international relations, coupled with linguistics has given me a deeper understanding of the complexities of wine. It has given me a passion for understanding the depth of culture and a love for diversity. It was during a span of time in Strasburg, France bordering Germany, where I was given the opportunity to bike across the Rhine daily. Here is where I first tasted the subtle differences between French Rieslings and German Rieslings. From that season of my life I was enthralled with the sheer intricacy of wine making and tasting.",
-                "As my travels subsided I found myself back in the U.S. where my goal was to continue expanding my knowledge surrounding wine. It prompted me to work under various sommeliers in fine dining establishments of James Beard award winning chefs. I continued to travel and taste wines from regions around the world. I have taken positions of all sorts. Bartending and serving for private V.I.P. events and special guests. I have managed restaurants, organized large scale not for profit events, and created wine education classes for a large retail establishment. I have also been a wine buyer and specialist in a high sales performance purchasing position. Now, I am working on the other side of the industry. I manage the office, logistics, and inventory of a local wine distribution company that represents some of Oregon’s most acclaimed Pinot Noir."]
+        "lastName": "Koeppe",
+        "bio": ["Michelle Koeppe resides in the heart of the Dundee Hills with a professional, local winemaker, a plethora of poultry, & a pair of Shar peis.  She is avid about promoting conviviality & the modalities that support it-- great food, wine, nature, & the arts.  Michelle loves sharing great vintages, good reads, & fun/wacky/interesting things to do in the Willamette Valley. Her past job titles include professional dancer, zookeeper, park ranger, & sea kayak guide/instructor."]
     },
     {
         "firstName": "Chase",
@@ -73,6 +77,22 @@
     },
     {   
         "firstName": "Grace",
-        "lastName": "Gerfen"
+        "lastName": "Gerfen",
+        "bio": ["California born living and loving all of Portland. Always chasing the Sunshine. Design Junkie, Sweets lover, Plant fanatic, Travel dreamer, Food enthusiast. Designer and Maker of Grace & Flux jewelry. Work in the gorgeous Wine country of the Willamette Valley."]
+    },
+    {   
+        "firstName": "Sarah",
+        "lastName": "Conde",
+        "bio": ["Sarah Conde is a native Oregonian who grew up near the Willamette Valley wine country. Sarah’s background is in marketing and tech but she has always remained passionate and curious about wine. Sarah's interest in wine started with her father introducing her to local Pinots and her love for Oregon wines evolved from there. Besides wine, she enjoys spending time with her goldendoodle, Oliver and her husband, Matt and continuing to develop her wine knowledge through travel."]
+    },
+    {   
+        "firstName": "Hilary",
+        "lastName": "McCown",
+        "bio": ["A native of Portland, Oregon, Hilary has been in the wine business for over 20 years - wine is her passion! She loves that there is always something new to learn , whether it's about a region, grape, or producer, and she loves to help people find just the right wine for any occasion. Besides wine, she also loves spending time with her husband and dog, and has an ongoing quest to grow the best tomatoes and hot peppers in her garden."]
+    },
+    {   
+        "firstName": "Kate",
+        "lastName": "Anderegg",
+        "bio": ["Hi! I’m Kate, and I love wine. My love affair began with my college job, waiting tables at a small, mom-and-pop Italian restaurant run with love by an old curmudgeon. It was the first time I thought about wine as more than just a beverage, something to enhance a meal, to enjoy slowly and thoughtfully with friends. My restaurant career continued after graduation, and brought me to San Francisco, then to Portland. Throughout my decade in restaurants, wine became a central focus, and I began writing wine lists and educating staff in addition to my serving shifts. About 2 years ago, I made the next logical step, to selling wine for an importer, which has given me a more in-depth understanding of grape farming and wine production. My broad professional experience involving wine- pouring, discussing, recommending, buying, selling- have granted me the ability to speak comfortably and confidently to all types of wine drinkers, from novices to experts, and get them excited about the wine they’re buying. I am thrilled with the opportunity to share my personal passion for wine with new people, and always seeking to learn more about Oregon wine."]
     }
 ]

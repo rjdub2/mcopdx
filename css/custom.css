@@ -81,7 +81,8 @@ body {
     margin-top: 3rem;
 }
 
-.mco-card:hover .mco-bio {
+.mco-card:hover .mco-bio,
+.mco-card:active .mco-bio {
     height: 400px;
     padding: 10px;
     overflow-y: scroll;

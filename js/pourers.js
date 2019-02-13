@@ -25,7 +25,11 @@ $.getJSON('pourers.json')
             }
             card += '</div>';
             card += '<div class="card-body  bg-purple">';
-            card += '<h5 class="card-title">' + pourer.firstName + ' ' + pourer.lastName + '</h5>';
+            card += '<h5 class="card-title">' + pourer.firstName + ' ' + pourer.lastName;
+            if (pourer.bio) {
+                card += '<span class="mco-info">[i]</span>';
+            }
+            card += '</h5>';
             card += '</div>';
             card += '</div>';
 
