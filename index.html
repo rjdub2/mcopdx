@@ -12,9 +12,9 @@
 </head>
 
 <body>
-    <nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-purple">
-        <a class="navbar-brand" href="#home">
-            <img src="./img/mco-logo-white-sm.png" height="30" />
+    <nav class="navbar fixed-top navbar-expand navbar-dark bg-purple shadow">
+        <a class="navbar-brand nav-link" href="#home">
+            <img src="./img/mco-logo-white-sm.png" height="50" />
             <!-- Margaux & Co. -->
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
@@ -41,7 +41,7 @@
         <div class="container">
             <div class="row full-height align-items-center">
                 <div class="col">
-                    <div class="jumbotron">
+                    <div class="jumbotron shadow">
                         <img src="./img/mco-logo-white.png" class="img-fluid" />
                     </div>
                 </div>
@@ -49,9 +49,10 @@
         </div>
     </div>
     <div class="container-fluid bg-white">
-        <div id="about" class="row bg-grey">
+        <div id="about" class="row bg-grey shadow">
             <div class="col">
                 <h1 class="display-4 mco-heading">About</h1>
+                <hr />
                 <p>
                     Owner Margaux Wagenmann has extensive experience in the Oregon wine industry & is
                     eager to share her love of wine. She has hand picked an outstanding group of
@@ -81,6 +82,7 @@
         <div id="pourers" class="row bg-grey">
             <div class="col">
                 <h1 class="display-4 mco-heading">Pourers</h1>
+                <hr />
                 <div id="pourer-deck" class="flex-container">
                 </div>
             </div>
@@ -93,6 +95,10 @@
     </script>
     <script src="js/pourers.js"></script>
     <script>
+        $('.nav-link').on('click', function () {
+            event.preventDefault();
+            $("html, body").animate({ scrollTop: $($(this).attr("href")).offset().top }, 500);
+        });
     </script>
 </body>
 

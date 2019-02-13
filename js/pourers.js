@@ -1,10 +1,15 @@
 //load JSON and populate pourers
 $.getJSON('pourers.json')
     .done(function (data) {
+        data.sort(function(a,b){
+            if(a.lastName < b.lastName) { return -1; }
+            if(a.lastName > b.lastName) { return 1; }
+            return 0;
+        });
         $.each(data, function (r, pourer) {
             var card = "",
                 modal = "",
-                hyphenName = pourer.name.replace(' ', '-').replace(' ', '-');
+                hyphenName = pourer.firstName.replace(' ', '-').replace(' ', '-') + '-' + pourer.lastName;
 
             card += '<div class="card mco-card shadow">';
             card += '<div class="mco-img">';
@@ -20,7 +25,7 @@ $.getJSON('pourers.json')
             }
             card += '</div>';
             card += '<div class="card-body  bg-purple">';
-            card += '<h5 class="card-title">' + pourer.name + '</h5>';
+            card += '<h5 class="card-title">' + pourer.firstName + ' ' + pourer.lastName + '</h5>';
             card += '</div>';
             card += '</div>';
 
