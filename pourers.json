@@ -91,16 +91,36 @@
         "bio": ["A native of Portland, Oregon, Hilary has been in the wine business for over 20 years - wine is her passion! She loves that there is always something new to learn , whether it's about a region, grape, or producer, and she loves to help people find just the right wine for any occasion. Besides wine, she also loves spending time with her husband and dog, and has an ongoing quest to grow the best tomatoes and hot peppers in her garden."]
     },
     {   
-        "firstName": "Kate",
-        "lastName": "Anderegg",
-        "bio": ["Hi! I’m Kate, and I love wine. My love affair began with my college job, waiting tables at a small, mom-and-pop Italian restaurant run with love by an old curmudgeon. It was the first time I thought about wine as more than just a beverage, something to enhance a meal, to enjoy slowly and thoughtfully with friends. My restaurant career continued after graduation, and brought me to San Francisco, then to Portland. Throughout my decade in restaurants, wine became a central focus, and I began writing wine lists and educating staff in addition to my serving shifts. About 2 years ago, I made the next logical step, to selling wine for an importer, which has given me a more in-depth understanding of grape farming and wine production. My broad professional experience involving wine- pouring, discussing, recommending, buying, selling- have granted me the ability to speak comfortably and confidently to all types of wine drinkers, from novices to experts, and get them excited about the wine they’re buying. I am thrilled with the opportunity to share my personal passion for wine with new people, and always seeking to learn more about Oregon wine."]
-    },
-    {   
         "firstName": "Tim",
         "lastName": "Reifsteck"
     },
     {   
         "firstName": "Amy",
-        "lastName": "Rehagan"
+        "lastName": "Rehagan",
+        "bio": ["I am a Missouri native who found my way to the west coast and never looked back. I have a long history working in restaurants and bartending, as well as a fierce love of wine. Currently I am pursuing a wine studies degree at Chemeketa Community College and looking to be more involved in the local wine industry. Cheers!"]
+    },
+    {
+        "firstName": "Amanda",
+        "lastName": "DeMann"
+    },
+    {
+        "fistName": "Joshua",
+        "lastName": "Chang"
+    },
+    {
+        "fistName": "Kathy",
+        "lastName": "Reese"
+    },
+    {
+        "fistName": "Lee",
+        "lastName": "Ware"
+    },
+    {
+        "fistName": "Tahlia",
+        "lastName": "Harrison"
+    },
+    {
+        "fistName": "Tom",
+        "lastName": "Pavlik"
     }
 ]
