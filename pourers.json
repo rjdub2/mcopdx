@@ -1,5 +1,12 @@
 [
     {
+        "firstName": "Margaux",
+        "lastName": "AWagenmann",
+        "bio": ["Margaux Wagenmann (Lemma) started at 21 working with her family at Lemma Wine Company. She enjoyed every moment and made the hard decision at 34 to focus on family. The high costs of daycare, a busy traveling partner led her to focus on being a Mama to her two sweet children. Of course, she couldn't sit still! She started to offer her time to pour wines for local wineries such as Coeur de Terre, Seven of Hearts & ROCO. She soon became so busy she started to reach out to her connections for assistance - and soon found that many others in the industry wanted to join in, share their love of wine!",
+                "She quickly founded Margaux & Co. on July 1, 2018 and has since branched out to support premium Domestic and Imported Wines, Breweries, hard Kombucha & Spirits.",
+                "During her down time, she volunteers as co-leader for GiGi's Playhouse Portland, an achievement center coming to Portland soon! Dedicated to servicing individuals with Down syndrome, their families and our community by offering FREE educational and therapeutic services. She donates her time in honor of her son, Lincoln, who was born with Down syndrome."]
+    },
+    {
         "firstName": "Stefanie",
         "lastName": "Loebach",
         "bio": ["Midwest roots and a love for Oregon, Stefanie moved to Portland in 2012. She is an evolving wine professional with a vibrant curiosity for wine, food, and connection. She delights in getting to know people from all around the world and discovering what draws them to a place. Stefanie received the WSET Level 2 certification under the instruction of Mimi Martin at The Wine and Spirit Archive and has her heart set on furthering her education within this industry, with hopes to one day be living abroad. When she’s not slinging wine, Stefanie enjoys writing, dancing, sharing a meal with friends, or lingering at home with a book."
@@ -104,23 +111,23 @@
         "lastName": "DeMann"
     },
     {
-        "fistName": "Joshua",
+        "firstName": "Joshua",
         "lastName": "Chang"
     },
     {
-        "fistName": "Kathy",
+        "firstName": "Kathy",
         "lastName": "Reese"
     },
     {
-        "fistName": "Lee",
+        "firstName": "Lee",
         "lastName": "Ware"
     },
     {
-        "fistName": "Tahlia",
+        "firstName": "Tahlia",
         "lastName": "Harrison"
     },
     {
-        "fistName": "Tom",
+        "firstName": "Tom",
         "lastName": "Pavlik"
     }
 ]
