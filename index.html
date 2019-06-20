@@ -25,7 +25,7 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BNRBKK"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <nav class="navbar fixed-top navbar-expand navbar-dark bg-purple shadow">
+    <nav id="mainNav" class="navbar fixed-top navbar-expand navbar-dark bg-purple shadow">
         <a class="navbar-brand nav-link" href="#home">
             <img src="./img/mco-logo-white-sm.png" height="50" />
         </a>
@@ -56,14 +56,14 @@
         <div class="container">
             <div class="row full-height align-items-center">
                 <div class="col">
-                    <div class="jumbotron shadow">
+                    <div class="jumbotron shadow text-center">
                         <img src="./img/mco-logo-white.png" class="img-fluid" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="container-fluid bg-white">
+    <div class="container-fluid bg-white" data-spy="scroll" data-target="#mainNav" data-offset="0">
         <div id="about" class="row bg-grey shadow">
             <div class="col">
                 <h1 class="display-4 mco-heading">About</h1>
@@ -89,7 +89,9 @@
                     encourage staff training & educational hand outs to consumers. Consider us your Brand Ambassadors, 
                     servicing Portland-Metro area, Willamette Valley, Salem, Corvallis & Eugene.
                 </p>
-                <img src="img/wagenmann-family-2500.jpg" class="img-fluid"></img>
+                <div class="text-center">
+                    <img src="img/wagenmann-family-2500.jpg" class="img-fluid"></img>
+                </div>
             </div>
         </div>
         <div id="services" class="row bg-grey shadow">

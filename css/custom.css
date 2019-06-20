@@ -67,6 +67,10 @@ hr {
    background-color: rgba(90, 37, 97, 1)
 }
 
+img.img-fluid {
+    max-height: 67vh;
+}
+
 .flex-container {
     display: flex;
     flex-direction: row;
