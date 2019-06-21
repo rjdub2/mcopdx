@@ -132,10 +132,6 @@ img.img-fluid {
     color: rgba(255,255,255,.9);
 }
 
-nav.navbar {
-    height: 80px;
-}
-
 .nav-link {
     font-size: 1.5rem;
 }
