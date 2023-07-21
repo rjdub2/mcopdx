@@ -9,11 +9,11 @@ $.getJSON('pourers.json')
         $.each(data, function (r, pourer) {
             var card = "",
                 modal = "",
-                hyphenName = pourer.firstName.replace(' ', '-').replace(' ', '-') + '-' + pourer.lastName.replace('AWagenmann', 'Wagenmann');
+                hyphenName = pourer.firstName.replace(' ', '-').replace(' ', '-') + '-';
 
             card += '<div class="card mco-card shadow">';
             card += '<div class="mco-img">';
-            card += '<img src="./img/pourers/' + hyphenName + '-thumb.jpg" class="card-img-top">';
+            card += '<img src="./img/pourers/' + pourer.firstName + '.jpg" class="card-img-top">';
             if (pourer.bio) {
                 card += '<div class="mco-bio mco-scroll">';
                 pourer.bio.forEach(function (paragraph) {
@@ -25,7 +25,7 @@ $.getJSON('pourers.json')
             }
             card += '</div>';
             card += '<div class="card-body  bg-purple">';
-            card += '<h5 class="card-title">' + pourer.firstName + ' ' + pourer.lastName.replace('AWagenmann', 'Wagenmann');
+            card += '<h5 class="card-title">' + pourer.firstName;
             if (pourer.bio) {
                 card += '<i class="fas fa-info-circle mco-info float-right"></i>';
             }
