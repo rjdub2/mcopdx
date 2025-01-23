@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    overflow-x: hidden; 
+    overflow-x: hidden;
     font-size: 1rem;
 
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .bg-purple {
-    background-color: rgba(62,64,91,255);
+    background-color: rgba(62, 64, 91, 255);
     color: white;
 }
 
@@ -45,7 +45,7 @@ body {
     width: 100vw;
 }
 
- #home {
+#home {
     /* background-color: rgba(62,64,91,.01); */
     backdrop-filter: blur(1px);
 }
@@ -67,10 +67,10 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid rgba(62,64,91,255);
+    border-top: 1px solid rgba(62, 64, 91, 255);
     margin: 1em 0;
-    padding: 0; 
-    background-color: rgba(62,64,91,255);
+    padding: 0;
+    background-color: rgba(62, 64, 91, 255);
 
 }
 
@@ -103,9 +103,9 @@ img.img-fluid {
 }
 
 .mco-bio {
-    background-color: rgba(62,64,91,.9);
+    background-color: rgba(62, 64, 91, .9);
     color: white;
-    position: absolute; 
+    position: absolute;
     bottom: 76px;
     height: 0;
     transition: .6s ease;
@@ -134,32 +134,32 @@ img.img-fluid {
 }
 
 .mco-scroll::-webkit-scrollbar-track {
-	-webkit-box-shadow: inset 0 0 6px rgba(62,64,91,.6);
-	background-color: rgba(62,64,91, 0.356);
+    -webkit-box-shadow: inset 0 0 6px rgba(62, 64, 91, .6);
+    background-color: rgba(62, 64, 91, 0.356);
 }
 
 .mco-scroll::-webkit-scrollbar {
-	width: 6px;
-	background-color: rgba(62,64,91, .60);
+    width: 6px;
+    background-color: rgba(62, 64, 91, .60);
 }
 
 .mco-scroll::-webkit-scrollbar-thumb {
-	background-color: rgb(54, 22, 58);
+    background-color: rgb(54, 22, 58);
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgba(255,255,255,.6);
+    color: rgba(255, 255, 255, .6);
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: rgba(255,255,255,.9);
+    color: rgba(255, 255, 255, .9);
 }
 
 .nav-link {
     font-size: 1.5rem;
 }
 
-@media (max-width: 650px) { 
+@media (max-width: 650px) {
     #home .jumbotron {
         width: auto;
         height: auto;
